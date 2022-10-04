@@ -19,12 +19,12 @@ Then you have to install what we are going to use,
 pip install python-telegram-bot psutil
 ```
 
-[tbstarter.vbs](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/setup.cmd) must be in "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" if you want the bot server to start when the pc starts
+- [tbstarter.vbs](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/setup.cmd) must be in "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" if you want the bot server to start when the pc starts
 
 
-[nircmdc.exe](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/nircmdc.exe) must be in "%USERPROFILE%\Pictures\Tbot"
+- [nircmdc.exe](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/nircmdc.exe) must be in "%USERPROFILE%\Pictures\Tbot"
 
-[setup.cmd](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/setup.cmd) is only needed if you want to create a self-extracting executable for example with WinRAR that creates and extracts all the necessary files in the right positions
+- [setup.cmd](https://github.com/GabBen1300/Telegram-Bot-to-control-your-pc/blob/d7ae7f357abd94f76d9c22c5423970bb4d53847b/setup.cmd) is only needed if you want to create a self-extracting executable for example with WinRAR that creates and extracts all the necessary files in the right positions
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
