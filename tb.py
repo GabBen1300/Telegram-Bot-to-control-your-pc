@@ -24,8 +24,8 @@ import psutil
 import socket
 import datetime
 
-TOKEN = "5571781962:AAH8XOwoFx-o3w3OVPWRFbKdvpwLuGFPfd8"
-CHATID = 1651802441
+TOKEN = "**********************"
+CHATID = **********************
 bot = telegram.Bot(token=TOKEN)
 
 def greenSquare():
