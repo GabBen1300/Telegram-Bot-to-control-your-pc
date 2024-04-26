@@ -1,6 +1,6 @@
 # Telegram-Bot-to-control-your-pc
 
-This project allows you to create a telegram bot that allows you to control your pc. It offers basic functions that are easily implemented by having access to the computer console
+This project help you to create a telegram bot that allows you to control your pc. It offers basic functions that are easily implemented by having access to the computer console
 
 ## Fist step
 
